@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635251365 source:c:\users\toyosi odukale\desktop\ui design\c practice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
